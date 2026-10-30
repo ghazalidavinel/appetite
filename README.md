@@ -1,5 +1,8 @@
-# appètite (Chilcha) – web version
-Static site, no build step.
-- VS Code: open this folder, install "Live Server", right-click index.html > Open with Live Server.
-- Vercel: upload/import this folder, Framework Preset = "Other", leave Build Command & Output Directory empty.
-# appetite
+# appètite (Chilcha) Web
+Vite + React.
+
+    npm install
+    npm run dev
+    npm run build
+
+Vercel: framework Vite, build `npm run build`, output `dist`.
